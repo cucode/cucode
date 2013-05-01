@@ -1,5 +1,5 @@
-cucode Champaign Organization of Developers & Engineers
-======
+Champaign Organization of Developers & Engineers
+================================================
 
 Associated with:
 
